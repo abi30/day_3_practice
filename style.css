@@ -1,0 +1,22 @@
+div{
+    width: 150px;
+    height: 150px;
+    background: lightgray;
+    margin: 20px;
+}
+#position{
+    /* position: absolute; */
+    /* position: relative; */
+    /* position: fixed; */
+    position: sticky;
+    top: 0;
+    /* left: 500px; */
+    left:500px;
+    border: 1px solid black;
+}
+span{
+    width: 150px;
+    height: 150px;
+    background: lightgray;
+    margin: 20px;
+}

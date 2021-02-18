@@ -1,0 +1,30 @@
+nav{
+    background-color: aqua;
+   
+}
+ul{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top:0.5rem;
+    width: 100%;
+}
+
+h1{
+    margin-top: 3rem red;
+}
+li{
+    float:left;
+    border: 2px solid rosybrown;
+}
+li a{
+    display:block;
+    color: antiquewhite;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+}

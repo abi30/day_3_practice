@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+   font-size: 13px;
+   color: aquamarine;
+  }
+  p {
+      padding: 10px;
+  }
+  #container{
+    margin: 0 auto;
+    width : 1000px;
+  }
+  #header{
+    float: left;
+    height: 75px ;
+    width: 1000px;
+    background: yellow;
+  }
+ #leftcolumn{
+    background: #33CCFF;
+    width : 150px;
+    float: left;
+  }
+  #content{
+    float: left;
+    background: #FFFFFF ;
+     width: 700px;
+  }
+  #rightcolumn{
+    background: #CC33FF ;
+    width: 150px;
+    float : left;
+  }
+  #footer{
+    height: 40px;
+    width: 1000px ;
+    background: #33FF66;
+    clear: both;
+  }
